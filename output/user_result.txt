@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-05 18:21:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-06 06:27:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -18,15 +18,10 @@ CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
-CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0356&tk=f6cc1e0a0e1a
-CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8705&tk=f6cc1e0a0e1a
+CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
-CETV1,http://139.129.231.228:3529/rtp/239.21.2.7:5002
 CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
-CETV2,http://139.129.231.228:3529/rtp/239.21.2.8:5002
 CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
-CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 
 📡卫视频道,#genre#
@@ -38,10 +33,11 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
-湖南卫视,http://36.44.157.103:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://58.17.48.228:808/hls/31/index.m3u8
+湖南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0472&tk=f6cc1e0a0e1a
+湖南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0898&tk=f6cc1e0a0e1a
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
-北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
+北京卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3790&tk=f6cc1e0a0e1a
+北京卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7848&tk=f6cc1e0a0e1a
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
 湖北卫视,http://goo.bkpcp.top/mg/hubws
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
@@ -50,7 +46,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 安徽卫视,http://123.182.60.29:9002/hls/28/index.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
-重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+重庆卫视,http://123.182.60.29:9002/hls/42/index.m3u8
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
@@ -62,7 +58,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
 海南卫视,http://goo.bkpcp.top/mg/hinws
 河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
-河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
+河北卫视,http://123.182.60.29:9002/hls/18/index.m3u8
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3451&tk=f6cc1e0a0e1a
 河南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6700&tk=f6cc1e0a0e1a
@@ -80,28 +76,32 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 内蒙古卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6402&tk=f6cc1e0a0e1a
 内蒙古卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2888&tk=f6cc1e0a0e1a
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
-宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+宁夏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2657&tk=f6cc1e0a0e1a
+宁夏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5593&tk=f6cc1e0a0e1a
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9452&tk=f6cc1e0a0e1a
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7831&tk=f6cc1e0a0e1a
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
 山东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0092&tk=f6cc1e0a0e1a
 山东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6395&tk=f6cc1e0a0e1a
-山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1116&tk=f6cc1e0a0e1a
+山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2264&tk=f6cc1e0a0e1a
+山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6461&tk=e503191f8e20
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
-四川卫视,http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
+四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9983&tk=e503191f8e20
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8133&tk=b53028476470
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
-天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
+天津卫视,http://123.182.60.29:9002/hls/23/index.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7303&tk=f6cc1e0a0e1a
+新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3830&tk=f6cc1e0a0e1a
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
-云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+云南卫视,http://123.182.60.29:9002/hls/33/index.m3u8
