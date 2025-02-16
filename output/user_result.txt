@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2025-02-16 06:38:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-02-16 18:30:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
@@ -58,7 +58,8 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
 河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
+河南卫视,http://goo.bkpcp.top/mg/hnws
+河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
 吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
@@ -68,20 +69,22 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
-内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
+内蒙古卫视,http://120.192.226.35:8009/hls/60/index.m3u8
+内蒙古卫视,http://175.31.21.146:4480/hls/24/index.m3u8
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
 宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
 青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
-山东卫视,http://z.b.bkpcp.top/m.php?=sdws
-山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
+山西卫视,http://120.192.226.35:8009/hls/49/index.m3u8
+山西卫视,http://175.31.21.146:4480/hls/23/index.m3u8
+陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
