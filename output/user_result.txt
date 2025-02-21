@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-02-21 18:30:14,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-02-22 06:36:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-4,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4HD
@@ -22,10 +22,9 @@ CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CETV1,http://139.129.231.228:3529/rtp/239.21.2.7:5002
-CETV2,http://139.129.231.228:3529/rtp/239.21.2.8:5002
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
+CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
@@ -33,8 +32,7 @@ CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
-浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUNANHD
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
