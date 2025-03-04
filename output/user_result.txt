@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-04 06:37:50,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-04 18:31:21,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -22,10 +22,7 @@ CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
-CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV1,http://139.129.231.228:3529/rtp/239.21.2.7:5002
-CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV2,http://139.129.231.228:3529/rtp/239.21.2.8:5002
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
