@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-13 06:40:13,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-13 18:33:34,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -51,7 +51,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://php.jdshipin.com:8880/cqyx.php?id=DONGNANHD
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
-广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 贵州卫视,http://php.jdshipin.com:8880/cqyx.php?id=GUIZHOUHD
@@ -79,8 +78,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
 山东卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANDONGHD
 山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANXISD
-陕西卫视,http://120.238.94.10:9901/tsfile/live/1070_1.m3u8?key=txiptv
-陕西卫视,http://120.238.94.10:9901/tsfile/live/1070_1.m3u8
+陕西卫视,http://api2.52tb.xyz/info?id=98&token=20230218zdxlqr
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
