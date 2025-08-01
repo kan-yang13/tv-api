@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 for file in /iptv-api-config/*; do
   filename=$(basename "$file")
@@ -10,7 +10,7 @@ done
 
 . /.venv/bin/activate
 
-service cron start &
+nginx -g 'daemon off;' &
 
 python $APP_WORKDIR/main.py &
 
